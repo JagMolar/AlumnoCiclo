@@ -63,7 +63,7 @@ public class AlumnoCiclo {
     
     visualTodos(al1,al2,al3,al4,al5);  
     }   
-    void visualTodos(Alumno alu1, Alumno alu2, Alumno alu3, Alumno alu4, Alumno alu5){   
+    static void visualTodos(Alumno alu1, Alumno alu2, Alumno alu3, Alumno alu4, Alumno alu5){   
        
         alu1.visualDatos();
         alu2.visualDatos();
